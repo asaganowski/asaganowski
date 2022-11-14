@@ -5,11 +5,11 @@
 
 ### 🗒&ensp;About me:
 
-- 🔭 I’m currently working on my portfolio projects.
+- 🔭 I’m working on my portfolio projects.
 
-- 🌱 I’m currently learning ...
+- 🌱 I expand knowledge in <strong>Typescript&React</strong>
 
-- 👯 I’m looking to collaborate on ...
+- 📧 Mail: a.saganowski00@gmail.com
 
 ### 📫&ensp;How to reach me: 
 
