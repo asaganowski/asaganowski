@@ -17,7 +17,7 @@
     <a href="https://www.linkedin.com/in/artur-saganowski-b500aa244/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>&emsp;
-    <a href="https://www.linkedin.com/in/artur-saganowski-b500aa244/">
+    <a href="mailto:a.saganowski00@gmail.com" >
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </div>
@@ -25,9 +25,10 @@
 ### 🖥&ensp;Stack Technology:
 
 <div align="left">
-  <img src="https://img.icons8.com/color/48/null/react-native.png" />
-  <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
+  <img src="https://img.icons8.com/officel/48/null/react.png"/>
+  <img src="https://img.icons8.com/color/48/null/javascript--v1.png" />
   <img src="https://img.icons8.com/color/48/null/typescript.png"/>
+  <img src="https://img.icons8.com/color/48/null/redux.png"/>
   <img src="https://img.icons8.com/color/48/null/sass.png"/>
   <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/null/css3.png"/>
