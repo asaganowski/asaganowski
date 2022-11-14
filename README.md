@@ -1,4 +1,5 @@
-### Welcome 👋 My name is Artur
+### Hi there,
+I'm Artur Saganowski 👋 
 
 ### Front-End Developer
 <hr/>
@@ -37,30 +38,4 @@
   <img src="https://img.icons8.com/color/48/null/nodejs.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v1.png" />
 </div>
-<!--
-26
-**asaganowski/asaganowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-27
-​
-28
-Here are some ideas to get you started:
-29
-​
-30
-- 🔭 I’m currently working on ...
-31
-- 🌱 I’m currently learning ...
-32
-- 👯 I’m looking to collaborate on ...
-33
-- 🤔 I’m looking for help with ...
-34
-- 💬 Ask me about ...
-35
-- 📫 How to reach me: ...
-36
-- 😄 Pronouns: ...
-37
-- ⚡ Fun fact: ...
-38
--->
+
