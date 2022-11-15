@@ -6,9 +6,9 @@ I'm Artur Saganowski 👋
 
 ### 🗒&ensp;About me:
 
-- 🔭 I’m working on my portfolio projects.
+- 🔭 I'm working on improving my skills in <strong>Typescript&React</strong>
 
-- 🌱 I expand knowledge in <strong>Typescript&React</strong>
+- 🏆 I'm eager to explore new <strong>Languages&Technologies</strong> 
 
 - 📧 Mail: a.saganowski00@gmail.com
 
