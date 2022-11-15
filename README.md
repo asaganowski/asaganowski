@@ -8,7 +8,7 @@ I'm Artur Saganowski 👋
 
 - 🔭 I'm working on improving my skills in <strong>Typescript&React</strong>
 
-- 🏆 I'm eager to explore new <strong>Languages&Technologies</strong> 
+- 🏆 I'm eager to explore new <strong>Languages&Tools</strong> 
 
 - 📧 Mail: a.saganowski00@gmail.com
 
