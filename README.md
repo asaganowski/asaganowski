@@ -6,7 +6,7 @@ I'm Artur Saganowski 👋
 
 ### 🗒&ensp;About me:
 
-- 🔭 I'm working on improving my skills in <strong>Typescript&React</strong>
+- 🔭 I'm working on improving my skills in <strong>Typescript&Angular</strong>
 
 - 🏆 I'm eager to explore new <strong>Languages&Tools</strong> 
 
