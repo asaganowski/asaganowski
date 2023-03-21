@@ -26,6 +26,7 @@ I'm Artur Saganowski 👋
 ### 🖥&ensp;Stack Technology:
 
 <div align="left">
+  <img src=" https://img.icons8.com/fluency/48/null/angularjs.png"/>
   <img src="https://img.icons8.com/officel/48/null/react.png"/>
   <img src="https://img.icons8.com/color/48/null/javascript--v1.png" />
   <img src="https://img.icons8.com/color/48/null/typescript.png"/>
